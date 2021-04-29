@@ -9,7 +9,7 @@
 
 #### h4大小的header
 
-[这是一个链接，目标baidu](www.baidu.com)
+[这是一个baidu链接](www.baidu.com)
 
 ![来源网上的图片](https://img1.baidu.com/it/u=2496571732,442429806&fm=26&fmt=auto&gp=0.jpg)
 
@@ -23,9 +23,9 @@ public class HelloWorld {
 
 > 这里是一个区块
 
-* 项目列表1
-* 项目列表2
-* 项目列表3
+* 项目符号列表1
+* 项目符号列表2
+* 项目符号列表3
 
 1. 编号列表1
 
